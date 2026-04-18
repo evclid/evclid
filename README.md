@@ -58,46 +58,6 @@ Tools I use: <br>
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-🌆 Daytime                21 commits          █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-🌙 Night                  46 commits          ███████████░░░░░░░░░░░░░░   42.99 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                31 commits          ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-Thursday                 25 commits          ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Sunday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Krasnoyarsk
-
-💬 Programming Languages: 
-C++                      6 hrs 1 min         ████████████████████████░   97.00 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 12 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  6 hrs 12 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -109,5 +69,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2026 01:29:33 UTC
+ Last Updated on 18/04/2026 01:22:58 UTC
 <!--END_SECTION:waka-->
