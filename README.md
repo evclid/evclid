@@ -40,7 +40,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -58,6 +58,46 @@ Tools I use: <br>
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+🌆 Daytime                21 commits          █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+🌙 Night                  46 commits          ███████████░░░░░░░░░░░░░░   42.99 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                31 commits          ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+Thursday                 25 commits          ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Sunday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Krasnoyarsk
+
+💬 Programming Languages: 
+C++                      3 hrs 53 mins       █████████████████████████   98.71 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -69,5 +109,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2026 01:22:58 UTC
+ Last Updated on 19/04/2026 01:46:46 UTC
 <!--END_SECTION:waka-->
