@@ -40,6 +40,8 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%206%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.27%20thousand%20lines%20of%20code-blue?style=flat)
@@ -56,6 +58,44 @@ Tools I use: <br>
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+🌆 Daytime                21 commits          █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+🌙 Night                  46 commits          ███████████░░░░░░░░░░░░░░   42.99 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                31 commits          ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+Thursday                 25 commits          ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Sunday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Krasnoyarsk
+
+💬 Programming Languages: 
+C++                      4 hrs 33 mins       ████████████████████████░   94.50 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -67,5 +107,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2026 02:27:19 UTC
+ Last Updated on 19/05/2026 02:26:29 UTC
 <!--END_SECTION:waka-->
