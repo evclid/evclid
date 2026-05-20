@@ -85,15 +85,13 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-C++                      4 hrs 33 mins       ████████████████████████░   94.50 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+C++                      3 hrs 52 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -107,5 +105,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2026 02:26:29 UTC
+ Last Updated on 20/05/2026 02:14:58 UTC
 <!--END_SECTION:waka-->
