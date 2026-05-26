@@ -40,7 +40,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-681%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,15 +85,15 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-C++                      9 hrs 25 mins       █████████████████████████   99.77 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C++                      12 hrs 26 mins      █████████████████████████   99.83 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -107,5 +107,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2026 02:31:49 UTC
+ Last Updated on 26/05/2026 02:12:20 UTC
 <!--END_SECTION:waka-->
