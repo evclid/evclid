@@ -40,7 +40,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-694%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,6 +58,44 @@ Tools I use: <br>
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+🌆 Daytime                21 commits          █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+🌙 Night                  46 commits          ███████████░░░░░░░░░░░░░░   42.99 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                31 commits          ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+Thursday                 25 commits          ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Sunday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Krasnoyarsk
+
+💬 Programming Languages: 
+C++                      7 hrs 35 mins       █████████████████████████   99.86 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 35 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  7 hrs 35 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -69,5 +107,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 02:36:05 UTC
+ Last Updated on 08/06/2026 02:40:34 UTC
 <!--END_SECTION:waka-->
