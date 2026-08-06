@@ -40,7 +40,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2017%20mins-blue?style=flat)
 
@@ -87,17 +87,17 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-C++                      9 hrs 28 mins       ████████████████████████░   97.72 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+C++                      11 hrs 10 mins      █████████████████████████   98.03 % 
+Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 41 mins       █████████████████████████   99.98 % 
+VS Code                  11 hrs 24 mins      █████████████████████████   99.98 % 
 Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,7 +105,7 @@ Windows                  9 hrs 41 mins       ███████████�
 ```text
 ⏱ AI Coding Time: 0 secs (0.02%)
 
-✍️ 0 lines written by AI, 10,609 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 10,647 lines written by hand (0.0% AI-written)
 
 🔤 266,429 Input Tokens, 511 Output Tokens
 
@@ -133,5 +133,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 01:41:53 UTC
+ Last Updated on 06/08/2026 01:41:06 UTC
 <!--END_SECTION:waka-->
