@@ -40,9 +40,9 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-731%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-732%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -87,37 +87,35 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-C++                      8 hrs 31 mins       ████████████████████████░   96.80 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+C++                      6 hrs 13 mins       ██████████████████████░░░   87.83 % 
+Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 44 mins       █████████████████████████   99.30 % 
-Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+VS Code                  6 hrs 32 mins       ███████████████████████░░   92.26 % 
+Codex CLI                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 
 💻 Operating System: 
-Windows                  8 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (0.7%)
+⏱ AI Coding Time: 53 mins (12.49%)
 
-✍️ 0 lines written by AI, 10,080 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 678 lines written by hand (0.0% AI-written)
 
-🔤 266,429 Input Tokens, 511 Output Tokens
+🔤 13,549,459 Input Tokens, 215,416 Output Tokens
 
-💵 $1.35 Estimated AI Cost This Week
+💵 $77.16 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 7 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 30,245 characters per prompt
+📚 Verbose Prompter — average 16,988 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -133,5 +131,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 00:53:48 UTC
+ Last Updated on 09/08/2026 00:56:05 UTC
 <!--END_SECTION:waka-->
