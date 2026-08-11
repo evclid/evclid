@@ -40,9 +40,9 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -87,35 +87,35 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-C++                      7 hrs 28 mins       ██████████████████████░░░   89.65 % 
-Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+C++                      5 hrs 49 mins       █████████████████████░░░░   84.70 % 
+Other                    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 47 mins       ███████████████████████░░   93.42 % 
-Codex CLI                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+VS Code                  6 hrs 7 mins        ██████████████████████░░░   89.22 % 
+Codex CLI                44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 
 💻 Operating System: 
-Windows                  8 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (10.62%)
+⏱ AI Coding Time: 1 hr 4 mins (15.67%)
 
-✍️ 0 lines written by AI, 786 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 661 lines written by hand (0.0% AI-written)
 
-🔤 13,549,459 Input Tokens, 215,416 Output Tokens
+🔤 14,372,839 Input Tokens, 221,976 Output Tokens
 
-💵 $77.16 Estimated AI Cost This Week
+💵 $81.68 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 4 AI Sessions, 10 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 16,988 characters per prompt
+📚 Verbose Prompter — average 11,916 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -131,5 +131,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 00:58:27 UTC
+ Last Updated on 11/08/2026 00:57:58 UTC
 <!--END_SECTION:waka-->
