@@ -87,27 +87,27 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-C++                      6 hrs 34 mins       █████████████████████░░░░   82.93 % 
-Other                    1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+C++                      4 hrs 27 mins       ███████████████████░░░░░░   76.73 % 
+Other                    1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 8 mins        ███████████████████████░░   90.06 % 
-Codex CLI                47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+VS Code                  5 hrs 1 min         ██████████████████████░░░   86.41 % 
+Codex CLI                47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 
 💻 Operating System: 
-Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 7 mins (14.18%)
+⏱ AI Coding Time: 1 hr 7 mins (19.38%)
 
-✍️ 0 lines written by AI, 768 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 617 lines written by hand (0.0% AI-written)
 
-🔤 14,592,589 Input Tokens, 225,417 Output Tokens
+🔤 25,357,277 Input Tokens, 456,615 Output Tokens
 
-💵 $82.89 Estimated AI Cost This Week
+💵 $143.65 Estimated AI Cost This Week
 
 🧠 5 AI Sessions, 11 AI Prompts
 
@@ -131,5 +131,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 01:04:27 UTC
+ Last Updated on 13/08/2026 01:05:38 UTC
 <!--END_SECTION:waka-->
