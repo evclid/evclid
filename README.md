@@ -40,7 +40,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2033%20mins-blue?style=flat)
 
@@ -87,23 +87,23 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-C++                      10 hrs 31 mins      ██████████████████████░░░   88.65 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+C++                      9 hrs 50 mins       ██████████████████████░░░   88.26 % 
+Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (1.2%)
+⏱ AI Coding Time: 8 mins (1.28%)
 
-✍️ 0 lines written by AI, 1,474 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,305 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -129,5 +129,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 00:39:01 UTC
+ Last Updated on 21/08/2026 00:41:44 UTC
 <!--END_SECTION:waka-->
