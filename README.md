@@ -87,41 +87,40 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-TypeScript               7 hrs 47 mins       ███████████████░░░░░░░░░░   59.05 % 
-C++                      3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-CSS                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+TypeScript               5 hrs 21 mins       ██████████████░░░░░░░░░░░   54.90 % 
+C++                      3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.41 % 
+CSS                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 21 mins (63.37%)
+⏱ AI Coding Time: 5 hrs 21 mins (54.93%)
 
-✍️ 3,331 lines written by AI, 416 lines written by hand (88.9% AI-written)
+✍️ 2,469 lines written by AI, 415 lines written by hand (85.61% AI-written)
 
-🔤 10,432,522 Input Tokens, 723,683 Output Tokens
+🔤 9,036,713 Input Tokens, 570,135 Output Tokens
 
-💵 $927.58 Estimated AI Cost This Week
+💵 $644.46 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 65 AI Prompts
+🧠 7 AI Sessions, 47 AI Prompts
 
-Spark                    4,125 lines         ████████████████████████░   97.17 % 
-Github-Copilot           120 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Spark                    3,174 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.9% of written lines came from AI
-📚 Verbose Prompter — average 3,972 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 19.59% of changed lines were hand-edited
+🤖 AI-Driven — 85.61% of written lines came from AI
+📚 Verbose Prompter — average 5,395 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 22.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -136,5 +135,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 02:28:13 UTC
+ Last Updated on 16/09/2026 02:21:57 UTC
 <!--END_SECTION:waka-->
