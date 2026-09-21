@@ -87,15 +87,14 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-C++                      3 hrs 1 min         █████████████████████░░░░   83.26 % 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+C++                      49 mins             ███████████████████░░░░░░   74.02 % 
+Other                    17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,5 +115,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 02:22:58 UTC
+ Last Updated on 21/09/2026 02:21:55 UTC
 <!--END_SECTION:waka-->
