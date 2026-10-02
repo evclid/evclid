@@ -87,27 +87,27 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-C++                      3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.73 % 
-Other                    1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Python                   1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+C++                      2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.72 % 
+Other                    1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Python                   1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 14 mins       ████████████████░░░░░░░░░   65.72 % 
-Codex Vscode             2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.78 % 
-Codex CLI                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+VS Code                  3 hrs 54 mins       ███████████████░░░░░░░░░░   58.89 % 
+Codex Vscode             2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.12 % 
+Codex CLI                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 💻 Operating System: 
-Windows                  7 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 17 mins (53.87%)
+⏱ AI Coding Time: 4 hrs 17 mins (64.61%)
 
-✍️ 1,577 lines written by AI, 509 lines written by hand (75.6% AI-written)
+✍️ 1,577 lines written by AI, 318 lines written by hand (83.22% AI-written)
 
 🔤 793,406 Input Tokens, 252,271 Output Tokens
 
@@ -120,10 +120,10 @@ Github-Copilot           174 lines           ███░░░░░░░░�
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.6% of written lines came from AI
+🤖 AI-Driven — 83.22% of written lines came from AI
 📄 Detailed Prompter — average 750 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 40.4% of changed lines were hand-edited
+🚀 High AI Trust — 28.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -138,5 +138,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 03:06:39 UTC
+ Last Updated on 02/10/2026 03:08:32 UTC
 <!--END_SECTION:waka-->
