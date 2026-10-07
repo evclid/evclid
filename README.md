@@ -40,7 +40,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%203%20mins-blue?style=flat)
 
@@ -87,25 +87,25 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-C++                      6 hrs 3 mins        █████████████████████░░░░   83.99 % 
-Python                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-TeX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+C++                      6 hrs 50 mins       █████████████████████░░░░   85.56 % 
+Python                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+TeX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (2.5%)
+⏱ AI Coding Time: 10 mins (2.25%)
 
-✍️ 174 lines written by AI, 1,375 lines written by hand (11.23% AI-written)
+✍️ 174 lines written by AI, 1,499 lines written by hand (10.4% AI-written)
 
 🔤 28,859 Input Tokens, 387 Output Tokens
 
@@ -117,10 +117,10 @@ Github-Copilot           174 lines           ███████████�
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.23% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 10.4% of written lines came from AI
 📝 Concise Prompter — average 77 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 93.43% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -135,5 +135,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 03:51:23 UTC
+ Last Updated on 07/10/2026 03:19:12 UTC
 <!--END_SECTION:waka-->
