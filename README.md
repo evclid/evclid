@@ -40,7 +40,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-815%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%203%20mins-blue?style=flat)
 
@@ -87,17 +87,17 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-C++                      8 hrs 54 mins       █████████████████████░░░░   84.68 % 
-Python                   1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-TeX                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C++                      12 hrs              ███████████████████████░░   92.96 % 
+Python                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -118,5 +118,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 02:54:55 UTC
+ Last Updated on 12/10/2026 03:17:56 UTC
 <!--END_SECTION:waka-->
