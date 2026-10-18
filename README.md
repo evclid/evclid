@@ -40,7 +40,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2020%20mins-blue?style=flat)
 
@@ -87,27 +87,27 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-C++                      5 hrs 54 mins       ████████████████████░░░░░   81.42 % 
-Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+C++                      7 hrs 56 mins       █████████████████████░░░░   85.50 % 
+Python                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 1 min         █████████████████████░░░░   83.14 % 
-Codex Vscode             57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+VS Code                  8 hrs 4 mins        ██████████████████████░░░   86.85 % 
+Codex Vscode             57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 💻 Operating System: 
-Windows                  7 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (17.75%)
+⏱ AI Coding Time: 1 hr 17 mins (13.84%)
 
-✍️ 934 lines written by AI, 419 lines written by hand (69.03% AI-written)
+✍️ 934 lines written by AI, 567 lines written by hand (62.23% AI-written)
 
 🔤 1,908,259 Input Tokens, 89,767 Output Tokens
 
@@ -120,10 +120,10 @@ Opus                     221 lines           ██████░░░░░�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.03% of written lines came from AI
+⚖️ Balanced with AI — 62.23% of written lines came from AI
 📝 Concise Prompter — average 195 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 41.0% of changed lines were hand-edited
+🚀 High AI Trust — 49.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -138,5 +138,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 02:07:41 UTC
+ Last Updated on 18/10/2026 02:07:30 UTC
 <!--END_SECTION:waka-->
