@@ -34,7 +34,7 @@ Tools I use: <br>
 <img align="center" title="Android" alt="Android" width="105" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </h3>
 
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IIIUBA&theme=dark&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evclid&theme=dark&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
 
 <br>
 <br>
