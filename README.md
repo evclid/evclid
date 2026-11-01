@@ -40,7 +40,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-844%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2036%20mins-blue?style=flat)
 
@@ -60,70 +60,6 @@ Tools I use: <br>
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-🌆 Daytime                26 commits          ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-🌃 Evening                34 commits          ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-🌙 Night                  47 commits          ██████████░░░░░░░░░░░░░░░   40.52 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Tuesday                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Wednesday                31 commits          ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-Thursday                 26 commits          ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Sunday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Krasnoyarsk
-
-💬 Programming Languages: 
-C++                      7 hrs 24 mins       ███████████████████░░░░░░   77.81 % 
-Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-PowerShell               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 7 mins        █████████████████████░░░░   85.41 % 
-Codex Vscode             1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-
-💻 Operating System: 
-Windows                  9 hrs 30 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 50 mins (19.35%)
-
-✍️ 766 lines written by AI, 1,082 lines written by hand (41.45% AI-written)
-
-🔤 434,252 Input Tokens, 85,668 Output Tokens
-
-💵 $3.26 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 17 AI Prompts
-
-GPT                      766 lines           ████████████████████████░   97.83 % 
-DeepSeek                 17 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.45% of written lines came from AI
-📝 Concise Prompter — average 199 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 72.85% of changed lines were hand-edited
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -136,5 +72,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 03:16:45 UTC
+ Last Updated on 01/11/2026 03:14:40 UTC
 <!--END_SECTION:waka-->
